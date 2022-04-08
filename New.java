@@ -6,9 +6,8 @@ public class New {
      
     System.out.println("Inside method 1");
     System.out.println("Inside method 1");
+    System.out.println("Inside method 2");
    
-
-
  }
     
 }

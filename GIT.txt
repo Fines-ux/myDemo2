@@ -1,0 +1,19 @@
+Soure code management
+
+
+CMD commands to commit 
+
+init git- initializes local git repository. 
+
+git remote add origin (git url) - hook project to git or connect local  repository to the remote repository on github
+
+git status - shows the ustaged or untracked files
+
+git add . - stage files to be committed
+
+git commit -m "first commit" - commit the first files to the local repository
+
+git conifg --global user.email "fjrhimaambo@gmail.com" -if it asks for email 
+git config --global user.name "smith330i" - if it asks for the name
+
+git push -u origin master - push onto the remote repository
